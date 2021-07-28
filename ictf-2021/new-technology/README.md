@@ -8,9 +8,9 @@
 
 ## Symbols:
 
-g * f: [Dirichlet convolution](https://en.wikipedia.org/wiki/Dirichlet_convolution) of g and f (explained later on).
-g • f: n -> g(n) f(n)
-d | n: d is a [divisor](https://en.wikipedia.org/wiki/Divisor) of n
+- g * f: [Dirichlet convolution](https://en.wikipedia.org/wiki/Dirichlet_convolution) of g and f (explained later on).
+- g • f: n -> g(n) f(n)
+- d | n: d is a [divisor](https://en.wikipedia.org/wiki/Divisor) of n
 
 ## Understanding the challenge
 
