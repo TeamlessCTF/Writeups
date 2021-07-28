@@ -1,1 +1,2 @@
-# 2021-ICTF-writeup
+# Writeups
+## ICTF 2021
